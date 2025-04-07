@@ -2,3 +2,5 @@ cheese
 paneer
 yogurt
 cream
+milk
+curd
